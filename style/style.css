@@ -1,0 +1,54 @@
+.jumbotron {
+    background-color: rgb(233, 184, 51);
+    padding-top: 3rem;
+}
+
+#project {
+    background-color: rgb(233, 184, 51);
+}
+
+img {
+    border-radius: 40px;
+}
+
+.footer {
+    background-color: rgb(233, 184, 51);
+}
+
+#skills h2 {
+    text-align: center;
+}
+
+#skills .bar {
+    height: 30px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+
+    margin: 5px 0 20px 0;
+}
+
+.bar .nilai {
+    height: 30px;
+    display: inline-block;
+    background-color: rgb(233, 184, 51);
+    border-radius: 30px;
+    text-align: center;
+    color: #fff;
+}
+
+.publik {
+    width: 80%;
+}
+
+.word {
+    width: 85%;
+}
+
+.excel {
+    width: 75%;
+}
+
+#contact {
+    background-color: rgb(233, 184, 51);
+}
